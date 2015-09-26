@@ -1,0 +1,10 @@
+body {
+  background-image: url(https://pbs.twimg.com/profile_images/503686473099403264/Z1WAmBtJ.png);
+  background-size: contain;
+}
+
+nav {
+  background-color: white;
+  border: 2px outset white;
+  text-align: center;
+}
